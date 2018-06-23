@@ -6,5 +6,4 @@
 2) LED 제어
 3) 온도 센서 데이터 
 
-<img width="200" alt="2018-06-24 2 55 41" src="https://user-images.githubusercontent.com/26498433/41812249-86b567e6-775a-11e8-8d48-ab04fa365ebf.png">
-<img width="201" alt="2018-06-24 2 58 18" src="https://user-images.githubusercontent.com/26498433/41812250-88a5f32c-775a-11e8-97fc-a72f5301e407.png">
+<img width="200" alt="2018-06-24 2 55 41" src="https://user-images.githubusercontent.com/26498433/41812249-86b567e6-775a-11e8-8d48-ab04fa365ebf.png"> <img width="201" alt="2018-06-24 2 58 18" src="https://user-images.githubusercontent.com/26498433/41812250-88a5f32c-775a-11e8-97fc-a72f5301e407.png">
